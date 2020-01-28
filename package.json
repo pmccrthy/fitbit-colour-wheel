@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "42a5288b-d9b7-40c4-a540-f98f9e0f4842",
+    "appType": "app",
+    "appDisplayName": "Colour Wheel",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Colour Wheel"
+      }
+    }
+  }
+}
