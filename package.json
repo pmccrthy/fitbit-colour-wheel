@@ -7,13 +7,16 @@
     "wipeColor": "#607d8b",
     "requestedPermissions": [],
     "buildTargets": [
-      "higgs",
       "meson"
     ],
     "i18n": {
       "en": {
         "name": "Colour Wheel"
       }
-    }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
   }
 }

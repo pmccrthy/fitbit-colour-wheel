@@ -1,6 +1,18 @@
-.defaultText {
-  font-size: 32;
-  font-family: System-Regular;
-  font-weight: regular;
-  text-length: 32;
-}
+.segment {sweep-angle: 30; arc-width: 31; pointer-events: visible;}
+
+.outer {x: 5; y: 5; width: 290; height: 290;}
+
+.inner {x: 30; y: 30; width: 240; height: 240;}
+
+.y {fill: #fef200; start-angle: 345;}
+.yg {fill: #b8d432; start-angle: 15;}
+.g {fill: #3db54b; start-angle: 45;}
+.bg {fill: #009a90; start-angle: 75;}
+.b {fill: #0003ff; start-angle: 105;}
+.bv {fill: #2e2c75; start-angle: 135;}
+.v {fill: #68397f; start-angle: 165;}
+.rv {fill: #c20072; start-angle: 195;}
+.r {fill: #f80120; start-angle: 225;}
+.ro {fill: #ef5d22; start-angle: 255;}
+.o {fill: #fe9900; start-angle: 285;}
+.yo {fill: #ffcc00; start-angle: 315;}
